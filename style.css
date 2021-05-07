@@ -42,7 +42,7 @@ section {
   padding-bottom: 10px;
 }
 #pixel-board {
-  /* border-collapse: collapse; */
+  border-collapse: collapse;
   align-content: center;
   margin: auto;
   background-color: black;
