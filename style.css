@@ -1,0 +1,67 @@
+header {
+  background-color: black;
+  color: white;
+}
+#title {
+  display: inline-block;
+}
+#logo {
+  height: 60px;
+  vertical-align: middle;
+  padding-left: 5px;
+}
+body {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(images/wood-texture.jpg);
+  margin: 0;
+}
+
+section {
+  background-image: url(images/bg-paint2.jpg);
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  min-height: 900px;
+  margin: 20px;
+}
+
+.color {
+  border: solid 1px black;
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+}
+
+#clear-board {
+  margin: 5px;
+}
+
+#board-config {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#pixel-board {
+  /* border-collapse: collapse; */
+  align-content: center;
+  margin: auto;
+  background-color: black;
+}
+
+.pixel {
+  border: solid 1px black;
+  height: 40px;
+  width: 40px;
+  background-color: white;
+}
+
+#rodape {
+  background-color: black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+}
