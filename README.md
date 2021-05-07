@@ -10,6 +10,10 @@ Uma página web que contém uma paleta de cores funcional que poderá ser utiliz
 
 ## Linguagens
 
-`javascript`
-`css`
-`html`.
+- `javascript`
+- `css`
+- `html`
+
+### Observações
+
+Projeto desenvolvido durante o curso da [Trybe](https://www.betrybe.com/)!
